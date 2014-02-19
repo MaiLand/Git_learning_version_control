@@ -1,4 +1,5 @@
 data <- read.csv("data/gapminder-FiveYearData.csv", stringsAsFactors=FALSE)
 
-#subset data
 #hope this works 
+
+# need some data
